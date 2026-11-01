@@ -29,4 +29,3 @@ pytest -q
 - The LFP example is not a verified, energy-matched design. Replace its cell data and series/parallel count after datasheet verification.
 - Thermal resistance and thermal capacitance are illustrative. Do not use the predicted temperatures to design or operate a real battery pack.
 - This prototype does not certify safety or regulatory compliance.
-"# BW" 
